@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Multiplication Suite">
+  
+  <test thread-count="1" name="Test_Multiplication_Two numbers">
+  <parameter name = "firstNumber" value="10.598"/>
+  <parameter name = "secondNumber" value="2"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Multiplication_Multiplying by zero">
+  <parameter name = "firstNumber" value="0"/>
+  <parameter name = "secondNumber" value="2"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Multiplication_Multiplying two decimal values and rounding off to nearest 2 decimal values">
+  <parameter name = "firstNumber" value="0.56"/>
+  <parameter name = "secondNumber" value="0.298"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Multiplication_Verify Error message when passing blank values">
+  <parameter name = "firstNumber" value=""/>
+  <parameter name = "secondNumber" value="3"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

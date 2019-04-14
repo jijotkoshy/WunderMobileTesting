@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Subtraction Suite">
+  
+  <test thread-count="1" name="Test_Subtraction">
+  <parameter name = "firstNumber" value="4"/>
+  <parameter name = "secondNumber" value="2"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Subtraction_Subtracting two dwcimal values">
+  <parameter name = "firstNumber" value="0.5"/>
+  <parameter name = "secondNumber" value="2.542"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Subtraction_Subtracting by zero">
+  <parameter name = "firstNumber" value="0"/>
+  <parameter name = "secondNumber" value="2.54"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Subtraction_Verify Error message when passing blank values">
+  <parameter name = "firstNumber" value=""/>
+  <parameter name = "secondNumber" value="500"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

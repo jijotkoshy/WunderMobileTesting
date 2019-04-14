@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test_Addition3"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.336">
+  <properties />
+  
+  
+            <testcase name="additionOfTwoNumber" time="12.336" classname="com.appium.test.mobiletesting.Calculator_Addition" />
+      
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Test_Subtraction(failed)">
+    <parameter name="secondNumber" value="2"/>
+    <parameter name="firstNumber" value="4"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction">
+        <methods>
+          <include name="tearDown"/>
+          <include name="resetCalculator"/>
+          <include name="subtractionOfTwoNumber" invocation-numbers="0"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Subtraction -->
+    </classes>
+  </test> <!-- Test_Subtraction(failed) -->
+</suite> <!-- Failed suite [Suite (0)] -->

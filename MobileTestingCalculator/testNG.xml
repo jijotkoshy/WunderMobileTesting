@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Calculator Suite">
+<parameter name = "udidNumber" value="7bc5cb0a"/>
+<parameter name = "serverURL" value="http://0.0.0.0:4723/wd/hub"/>
+
+    <!-- suite name="Suite Name" --> 
+            <suite-files>
+                   <suite-file path="./resources/SuiteFiles/Addition.xml" />
+                   <suite-file path="./resources/SuiteFiles/Subtraction.xml" />
+                   <suite-file path="./resources/SuiteFiles/Multiplication.xml" />
+                   <suite-file path="./resources/SuiteFiles/Division.xml" />
+            </suite-files>
+  
+</suite> <!-- Suite -->

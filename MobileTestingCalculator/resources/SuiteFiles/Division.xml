@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Division Suite">
+ 
+  <test thread-count="1" name="Test_Division_Dividing two regular Decimal Numbers">
+  <parameter name = "firstNumber" value="0.5"/>
+  <parameter name = "secondNumber" value="2"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Division"/>
+    </classes>
+   </test> <!--Test -->
+  
+  <test thread-count="1" name="Test_Division_Dividing zero by a regualr number">
+  <parameter name = "firstNumber" value="0"/>
+  <parameter name = "secondNumber" value="2"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Division"/>
+    </classes>
+  </test> <!--Test -->
+  
+  <test thread-count="1" name="Test_Division_Verify Error Message when dividing by zero">
+  <parameter name = "firstNumber" value="5"/>
+  <parameter name = "secondNumber" value="0"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Division"/>
+    </classes>
+  </test> <!--Test -->
+  
+</suite> <!-- Suite -->

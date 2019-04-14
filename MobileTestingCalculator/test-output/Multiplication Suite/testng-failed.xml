@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Multiplication Suite]">
+  <parameter name="udidNumber" value="7bc5cb0a"/>
+  <parameter name="serverURL" value="http://0.0.0.0:4723/wd/hub"/>
+  <test thread-count="5" name="Test_Multiplication(failed)">
+    <parameter name="secondNumber" value="2"/>
+    <parameter name="firstNumber" value="10.598"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication">
+        <methods>
+          <include name="setUp"/>
+          <include name="resetCalculator"/>
+          <include name="tearDown"/>
+          <include name="multiplicationOfTwoNumber" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Multiplication -->
+    </classes>
+  </test> <!-- Test_Multiplication(failed) -->
+</suite> <!-- Failed suite [Multiplication Suite] -->

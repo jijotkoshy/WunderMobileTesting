@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Division Suite]">
+  <test thread-count="5" name="Test_Division_Verify Error message when passing blank values(failed)">
+    <parameter name="secondNumber" value=" "/>
+    <parameter name="firstNumber" value="4"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Division">
+        <methods>
+          <include name="tearDown"/>
+          <include name="resetCalculator"/>
+          <include name="setUp"/>
+          <include name="divisionOfTwoNumber" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Division -->
+    </classes>
+  </test> <!-- Test_Division_Verify Error message when passing blank values(failed) -->
+</suite> <!-- Failed suite [Division Suite] -->

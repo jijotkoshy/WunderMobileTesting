@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Addition Suite">
+
+ <test thread-count="1" name="Test_Addition_Adding two Decimal Values">
+  <parameter name = "firstNumber" value="2.567"/>
+  <parameter name = "secondNumber" value="2.5"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Addition"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Addition_Verify given values round off to nearest 2 decimal place value">
+  <parameter name = "firstNumber" value="999.0001"/>
+  <parameter name = "secondNumber" value="26.59873"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Addition"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Addition_Verify Error message when passing blank values">
+  <parameter name = "firstNumber" value="90"/>
+  <parameter name = "secondNumber" value=""/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Addition"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Test_Addition_Adding two Regular Values">
+  <parameter name = "firstNumber" value="388"/>
+  <parameter name = "secondNumber" value="9876"/>
+    <classes>
+      <class name="com.appium.test.mobiletesting.Calculator_Addition"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

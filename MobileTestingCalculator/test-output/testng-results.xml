@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="0" total="15" passed="12">
+  <reporter-output>
+    <line>
+      <![CDATA[Entered 1st Number: 2.567]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2.5]]>
+    </line>
+    <line>
+      <![CDATA[Result: 2.57 + 2.50 = 5.07]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2.567 .Rounded of to 2 Decimal places format: 2.57]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2.5 .Rounded of to 2 Decimal places format: 2.50]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.57 .Expected Result: 2.57]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.50 .Expected Result: 2.50]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 5.07 .Expected Result: 5.07]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203411.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 999.0001]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 26.59873]]>
+    </line>
+    <line>
+      <![CDATA[Result: 999.00 + 26.60 = 1025.60]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 999.0001 .Rounded of to 2 Decimal places format: 999.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 26.59873 .Rounded of to 2 Decimal places format: 26.60]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 999.00 .Expected Result: 999.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 26.60 .Expected Result: 26.60]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 1025.60 .Expected Result: 1025.60]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203427.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 90]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: ]]>
+    </line>
+    <line>
+      <![CDATA[Result: Please, fill the input fields correctly]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 90 .Rounded of to 2 Decimal places format: 90.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered:  .Rounded of to 2 Decimal places format: ]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: Please, fill the input fields correctly .Expected Result: Please, fill the input fields correctly]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203443.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 388]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 9876]]>
+    </line>
+    <line>
+      <![CDATA[Result: 388.00 + 9876.00 = 10264.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 388 .Rounded of to 2 Decimal places format: 388.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 9876 .Rounded of to 2 Decimal places format: 9876.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 388.00 .Expected Result: 388.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 9876.00 .Expected Result: 9876.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 10264.00 .Expected Result: 10264.00]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203459.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 4]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2]]>
+    </line>
+    <line>
+      <![CDATA[Result: 4.00 - 2.00 = 6.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 4 .Rounded of to 2 Decimal places format: 4.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 4.00 .Expected Result: 4.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203521.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 0.5]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2.542]]>
+    </line>
+    <line>
+      <![CDATA[Result: 0.50 - 2.54 = 3.04]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0.5 .Rounded of to 2 Decimal places format: 0.50]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2.542 .Rounded of to 2 Decimal places format: 2.54]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.50 .Expected Result: 0.50]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.54 .Expected Result: 2.54]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203537.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 0]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2.54]]>
+    </line>
+    <line>
+      <![CDATA[Result: 0.00 - 2.54 = 2.54]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2.54 .Rounded of to 2 Decimal places format: 2.54]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.54 .Expected Result: 2.54]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203553.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: ]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 500]]>
+    </line>
+    <line>
+      <![CDATA[Result: Please, fill the input fields correctly]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered:  .Rounded of to 2 Decimal places format: ]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 500 .Rounded of to 2 Decimal places format: 500.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: Please, fill the input fields correctly .Expected Result: Please, fill the input fields correctly]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203609.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 10.598]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2]]>
+    </line>
+    <line>
+      <![CDATA[Result: 10.60 * 2.00 = 21.20]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 10.598 .Rounded of to 2 Decimal places format: 10.60]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 10.60 .Expected Result: 10.60]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 21.20 .Expected Result: 21.20]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203631.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 0]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2]]>
+    </line>
+    <line>
+      <![CDATA[Result: 0.00 * 2.00 = 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203647.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 0.56]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 0.298]]>
+    </line>
+    <line>
+      <![CDATA[Result: 0.56 * 0.30 = 0.17]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0.56 .Rounded of to 2 Decimal places format: 0.56]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0.298 .Rounded of to 2 Decimal places format: 0.30]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.56 .Expected Result: 0.56]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.30 .Expected Result: 0.30]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.17 .Expected Result: 0.17]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203703.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: ]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 3]]>
+    </line>
+    <line>
+      <![CDATA[Result: Please, fill the input fields correctly]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered:  .Rounded of to 2 Decimal places format: ]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 3 .Rounded of to 2 Decimal places format: 3.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: Please, fill the input fields correctly .Expected Result: Please, fill the input fields correctly]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203718.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 0.5]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0.5 .Rounded of to 2 Decimal places format: 0.50]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.50 .Expected Result: 0.50]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.25 .Expected Result: 0.25]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203740.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 0]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 2]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203756.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[Entered 1st Number: 5]]>
+    </line>
+    <line>
+      <![CDATA[Entered 2nd Number: 0]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 5 .Rounded of to 2 Decimal places format: 5.00]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 5.00 .Expected Result: 5.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+    </line>
+    <line>
+      <![CDATA[Actual Result: Infinity .Expected Result: Infinity]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203812.png" alt=""/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Calculator Suite" duration-ms="0" started-at="2019-04-14T15:08:16Z" finished-at="2019-04-14T15:08:16Z">
+    <groups>
+    </groups>
+  </suite> <!-- Calculator Suite -->
+  <suite name="Multiplication Suite" duration-ms="63893" started-at="2019-04-14T15:06:17Z" finished-at="2019-04-14T15:07:20Z">
+    <groups>
+    </groups>
+    <test name="Test_Multiplication_Two numbers" duration-ms="16372" started-at="2019-04-14T15:06:17Z" finished-at="2019-04-14T15:06:33Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication">
+        <test-method status="PASS" signature="multiplicationOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@67784306]" name="multiplicationOfTwoNumber" duration-ms="12817" started-at="2019-04-14T15:06:17Z" finished-at="2019-04-14T15:06:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.598]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 10.598]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2]]>
+            </line>
+            <line>
+              <![CDATA[Result: 10.60 * 2.00 = 21.20]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 10.598 .Rounded of to 2 Decimal places format: 10.60]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 10.60 .Expected Result: 10.60]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 21.20 .Expected Result: 21.20]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203631.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- multiplicationOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@67784306]" name="resetCalculator" is-config="true" duration-ms="2275" started-at="2019-04-14T15:06:31Z" finished-at="2019-04-14T15:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Multiplication -->
+    </test> <!-- Test_Multiplication_Two numbers -->
+    <test name="Test_Multiplication_Multiplying by zero" duration-ms="15967" started-at="2019-04-14T15:06:33Z" finished-at="2019-04-14T15:06:49Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication">
+        <test-method status="PASS" signature="multiplicationOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@5a8e6209]" name="multiplicationOfTwoNumber" duration-ms="12397" started-at="2019-04-14T15:06:33Z" finished-at="2019-04-14T15:06:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 0]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2]]>
+            </line>
+            <line>
+              <![CDATA[Result: 0.00 * 2.00 = 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203647.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- multiplicationOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@5a8e6209]" name="resetCalculator" is-config="true" duration-ms="2267" started-at="2019-04-14T15:06:47Z" finished-at="2019-04-14T15:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Multiplication -->
+    </test> <!-- Test_Multiplication_Multiplying by zero -->
+    <test name="Test_Multiplication_Multiplying two decimal values and rounding off to nearest 2 decimal values" duration-ms="16112" started-at="2019-04-14T15:06:49Z" finished-at="2019-04-14T15:07:05Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication">
+        <test-method status="PASS" signature="multiplicationOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@3a5ed7a6]" name="multiplicationOfTwoNumber" duration-ms="12502" started-at="2019-04-14T15:06:49Z" finished-at="2019-04-14T15:07:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.298]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 0.56]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 0.298]]>
+            </line>
+            <line>
+              <![CDATA[Result: 0.56 * 0.30 = 0.17]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0.56 .Rounded of to 2 Decimal places format: 0.56]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0.298 .Rounded of to 2 Decimal places format: 0.30]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.56 .Expected Result: 0.56]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.30 .Expected Result: 0.30]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.17 .Expected Result: 0.17]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203703.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- multiplicationOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@3a5ed7a6]" name="resetCalculator" is-config="true" duration-ms="2271" started-at="2019-04-14T15:07:03Z" finished-at="2019-04-14T15:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Multiplication -->
+    </test> <!-- Test_Multiplication_Multiplying two decimal values and rounding off to nearest 2 decimal values -->
+    <test name="Test_Multiplication_Verify Error message when passing blank values" duration-ms="15347" started-at="2019-04-14T15:07:05Z" finished-at="2019-04-14T15:07:20Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Multiplication">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@61f8bee4]" name="setUp" is-config="true" duration-ms="4457" started-at="2019-04-14T15:06:12Z" finished-at="2019-04-14T15:06:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7bc5cb0a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://0.0.0.0:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="multiplicationOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@61f8bee4]" name="multiplicationOfTwoNumber" duration-ms="11807" started-at="2019-04-14T15:07:05Z" finished-at="2019-04-14T15:07:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: ]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 3]]>
+            </line>
+            <line>
+              <![CDATA[Result: Please, fill the input fields correctly]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered:  .Rounded of to 2 Decimal places format: ]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 3 .Rounded of to 2 Decimal places format: 3.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: Please, fill the input fields correctly .Expected Result: Please, fill the input fields correctly]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203718.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- multiplicationOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@61f8bee4]" name="resetCalculator" is-config="true" duration-ms="2262" started-at="2019-04-14T15:07:18Z" finished-at="2019-04-14T15:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Multiplication@61f8bee4]" name="tearDown" is-config="true" duration-ms="1009" started-at="2019-04-14T15:07:20Z" finished-at="2019-04-14T15:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Multiplication -->
+    </test> <!-- Test_Multiplication_Verify Error message when passing blank values -->
+  </suite> <!-- Multiplication Suite -->
+  <suite name="Addition Suite" duration-ms="64663" started-at="2019-04-14T15:03:57Z" finished-at="2019-04-14T15:05:01Z">
+    <groups>
+    </groups>
+    <test name="Test_Addition_Adding two Decimal Values" duration-ms="16257" started-at="2019-04-14T15:03:57Z" finished-at="2019-04-14T15:04:13Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Addition">
+        <test-method status="PASS" signature="additionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@271053e1]" name="additionOfTwoNumber" duration-ms="12612" started-at="2019-04-14T15:03:57Z" finished-at="2019-04-14T15:04:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.567]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 2.567]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2.5]]>
+            </line>
+            <line>
+              <![CDATA[Result: 2.57 + 2.50 = 5.07]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2.567 .Rounded of to 2 Decimal places format: 2.57]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2.5 .Rounded of to 2 Decimal places format: 2.50]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.57 .Expected Result: 2.57]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.50 .Expected Result: 2.50]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 5.07 .Expected Result: 5.07]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203411.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- additionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@271053e1]" name="resetCalculator" is-config="true" duration-ms="2268" started-at="2019-04-14T15:04:11Z" finished-at="2019-04-14T15:04:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Addition -->
+    </test> <!-- Test_Addition_Adding two Decimal Values -->
+    <test name="Test_Addition_Verify given values round off to nearest 2 decimal place value" duration-ms="16318" started-at="2019-04-14T15:04:13Z" finished-at="2019-04-14T15:04:29Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Addition">
+        <test-method status="PASS" signature="additionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@64bfbc86]" name="additionOfTwoNumber" duration-ms="12668" started-at="2019-04-14T15:04:13Z" finished-at="2019-04-14T15:04:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999.0001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[26.59873]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 999.0001]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 26.59873]]>
+            </line>
+            <line>
+              <![CDATA[Result: 999.00 + 26.60 = 1025.60]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 999.0001 .Rounded of to 2 Decimal places format: 999.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 26.59873 .Rounded of to 2 Decimal places format: 26.60]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 999.00 .Expected Result: 999.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 26.60 .Expected Result: 26.60]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 1025.60 .Expected Result: 1025.60]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203427.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- additionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@64bfbc86]" name="resetCalculator" is-config="true" duration-ms="2261" started-at="2019-04-14T15:04:27Z" finished-at="2019-04-14T15:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Addition -->
+    </test> <!-- Test_Addition_Verify given values round off to nearest 2 decimal place value -->
+    <test name="Test_Addition_Verify Error message when passing blank values" duration-ms="15672" started-at="2019-04-14T15:04:29Z" finished-at="2019-04-14T15:04:45Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Addition">
+        <test-method status="PASS" signature="additionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@7e0b0338]" name="additionOfTwoNumber" duration-ms="12075" started-at="2019-04-14T15:04:29Z" finished-at="2019-04-14T15:04:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 90]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: ]]>
+            </line>
+            <line>
+              <![CDATA[Result: Please, fill the input fields correctly]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 90 .Rounded of to 2 Decimal places format: 90.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered:  .Rounded of to 2 Decimal places format: ]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: Please, fill the input fields correctly .Expected Result: Please, fill the input fields correctly]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203443.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- additionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@7e0b0338]" name="resetCalculator" is-config="true" duration-ms="2272" started-at="2019-04-14T15:04:43Z" finished-at="2019-04-14T15:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Addition -->
+    </test> <!-- Test_Addition_Verify Error message when passing blank values -->
+    <test name="Test_Addition_Adding two Regular Values" duration-ms="16307" started-at="2019-04-14T15:04:45Z" finished-at="2019-04-14T15:05:01Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Addition">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@544fe44c]" name="setUp" is-config="true" duration-ms="6717" started-at="2019-04-14T15:03:50Z" finished-at="2019-04-14T15:03:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7bc5cb0a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://0.0.0.0:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="additionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@544fe44c]" name="additionOfTwoNumber" duration-ms="12595" started-at="2019-04-14T15:04:45Z" finished-at="2019-04-14T15:04:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[388]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9876]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 388]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 9876]]>
+            </line>
+            <line>
+              <![CDATA[Result: 388.00 + 9876.00 = 10264.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 388 .Rounded of to 2 Decimal places format: 388.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 9876 .Rounded of to 2 Decimal places format: 9876.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 388.00 .Expected Result: 388.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 9876.00 .Expected Result: 9876.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 10264.00 .Expected Result: 10264.00]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203459.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- additionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@544fe44c]" name="resetCalculator" is-config="true" duration-ms="2359" started-at="2019-04-14T15:04:59Z" finished-at="2019-04-14T15:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Addition@544fe44c]" name="tearDown" is-config="true" duration-ms="1047" started-at="2019-04-14T15:05:01Z" finished-at="2019-04-14T15:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Addition -->
+    </test> <!-- Test_Addition_Adding two Regular Values -->
+  </suite> <!-- Addition Suite -->
+  <suite name="Division Suite" duration-ms="48462" started-at="2019-04-14T15:07:26Z" finished-at="2019-04-14T15:08:15Z">
+    <groups>
+    </groups>
+    <test name="Test_Division_Dividing two regular Decimal Numbers" duration-ms="16396" started-at="2019-04-14T15:07:26Z" finished-at="2019-04-14T15:07:42Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Division">
+        <test-method status="PASS" signature="divisionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@23e028a9]" name="divisionOfTwoNumber" duration-ms="12787" started-at="2019-04-14T15:07:26Z" finished-at="2019-04-14T15:07:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 0.5]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0.5 .Rounded of to 2 Decimal places format: 0.50]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.50 .Expected Result: 0.50]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.25 .Expected Result: 0.25]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203740.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- divisionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@23e028a9]" name="resetCalculator" is-config="true" duration-ms="2312" started-at="2019-04-14T15:07:40Z" finished-at="2019-04-14T15:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Division -->
+    </test> <!-- Test_Division_Dividing two regular Decimal Numbers -->
+    <test name="Test_Division_Dividing zero by a regualr number" duration-ms="15936" started-at="2019-04-14T15:07:43Z" finished-at="2019-04-14T15:07:58Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Division">
+        <test-method status="PASS" signature="divisionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@2b552920]" name="divisionOfTwoNumber" duration-ms="12315" started-at="2019-04-14T15:07:43Z" finished-at="2019-04-14T15:07:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 0]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203756.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- divisionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@2b552920]" name="resetCalculator" is-config="true" duration-ms="2266" started-at="2019-04-14T15:07:56Z" finished-at="2019-04-14T15:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Division -->
+    </test> <!-- Test_Division_Dividing zero by a regualr number -->
+    <test name="Test_Division_Verify Error Message when dividing by zero" duration-ms="16004" started-at="2019-04-14T15:07:59Z" finished-at="2019-04-14T15:08:15Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Division">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@6ebc05a6]" name="setUp" is-config="true" duration-ms="4583" started-at="2019-04-14T15:07:22Z" finished-at="2019-04-14T15:07:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7bc5cb0a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://0.0.0.0:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="divisionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@6ebc05a6]" name="divisionOfTwoNumber" duration-ms="12457" started-at="2019-04-14T15:07:59Z" finished-at="2019-04-14T15:08:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 5]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 0]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 5 .Rounded of to 2 Decimal places format: 5.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 5.00 .Expected Result: 5.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: Infinity .Expected Result: Infinity]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203812.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- divisionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@6ebc05a6]" name="resetCalculator" is-config="true" duration-ms="2241" started-at="2019-04-14T15:08:12Z" finished-at="2019-04-14T15:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Division@6ebc05a6]" name="tearDown" is-config="true" duration-ms="972" started-at="2019-04-14T15:08:15Z" finished-at="2019-04-14T15:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Division -->
+    </test> <!-- Test_Division_Verify Error Message when dividing by zero -->
+  </suite> <!-- Division Suite -->
+  <suite name="Subtraction Suite" duration-ms="64150" started-at="2019-04-14T15:05:07Z" finished-at="2019-04-14T15:06:11Z">
+    <groups>
+    </groups>
+    <test name="Test_Subtraction" duration-ms="16180" started-at="2019-04-14T15:05:07Z" finished-at="2019-04-14T15:05:23Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction">
+        <test-method status="FAIL" signature="subtractionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@52a86356]" name="subtractionOfTwoNumber" duration-ms="12597" started-at="2019-04-14T15:05:07Z" finished-at="2019-04-14T15:05:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [2.00] but found [6.00]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [2.00] but found [6.00]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.appium.test.mobiletesting.MainActivityPage.assertResult(MainActivityPage.java:202)
+at com.appium.test.mobiletesting.MainActivityPage.verifyResults(MainActivityPage.java:149)
+at com.appium.test.mobiletesting.Calculator_Subtraction.subtractionOfTwoNumber(Calculator_Subtraction.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1204)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 4]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2]]>
+            </line>
+            <line>
+              <![CDATA[Result: 4.00 - 2.00 = 6.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 4 .Rounded of to 2 Decimal places format: 4.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2 .Rounded of to 2 Decimal places format: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 4.00 .Expected Result: 4.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.00 .Expected Result: 2.00]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203521.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- subtractionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@52a86356]" name="resetCalculator" is-config="true" duration-ms="2280" started-at="2019-04-14T15:05:21Z" finished-at="2019-04-14T15:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Subtraction -->
+    </test> <!-- Test_Subtraction -->
+    <test name="Test_Subtraction_Subtracting two dwcimal values" duration-ms="16129" started-at="2019-04-14T15:05:23Z" finished-at="2019-04-14T15:05:39Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction">
+        <test-method status="FAIL" signature="subtractionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@20398b7c]" name="subtractionOfTwoNumber" duration-ms="12532" started-at="2019-04-14T15:05:23Z" finished-at="2019-04-14T15:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.542]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [-2.04] but found [3.04]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [-2.04] but found [3.04]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.appium.test.mobiletesting.MainActivityPage.assertResult(MainActivityPage.java:202)
+at com.appium.test.mobiletesting.MainActivityPage.verifyResults(MainActivityPage.java:149)
+at com.appium.test.mobiletesting.Calculator_Subtraction.subtractionOfTwoNumber(Calculator_Subtraction.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1204)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 0.5]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2.542]]>
+            </line>
+            <line>
+              <![CDATA[Result: 0.50 - 2.54 = 3.04]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0.5 .Rounded of to 2 Decimal places format: 0.50]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2.542 .Rounded of to 2 Decimal places format: 2.54]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.50 .Expected Result: 0.50]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.54 .Expected Result: 2.54]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203537.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- subtractionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@20398b7c]" name="resetCalculator" is-config="true" duration-ms="2294" started-at="2019-04-14T15:05:37Z" finished-at="2019-04-14T15:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Subtraction -->
+    </test> <!-- Test_Subtraction_Subtracting two dwcimal values -->
+    <test name="Test_Subtraction_Subtracting by zero" duration-ms="16002" started-at="2019-04-14T15:05:39Z" finished-at="2019-04-14T15:05:55Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction">
+        <test-method status="FAIL" signature="subtractionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@6d7b4f4c]" name="subtractionOfTwoNumber" duration-ms="12433" started-at="2019-04-14T15:05:39Z" finished-at="2019-04-14T15:05:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.54]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [-2.54] but found [2.54]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [-2.54] but found [2.54]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.appium.test.mobiletesting.MainActivityPage.assertResult(MainActivityPage.java:202)
+at com.appium.test.mobiletesting.MainActivityPage.verifyResults(MainActivityPage.java:149)
+at com.appium.test.mobiletesting.Calculator_Subtraction.subtractionOfTwoNumber(Calculator_Subtraction.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1204)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: 0]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 2.54]]>
+            </line>
+            <line>
+              <![CDATA[Result: 0.00 - 2.54 = 2.54]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 0 .Rounded of to 2 Decimal places format: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 2.54 .Rounded of to 2 Decimal places format: 2.54]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 0.00 .Expected Result: 0.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: 2.54 .Expected Result: 2.54]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203553.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- subtractionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@6d7b4f4c]" name="resetCalculator" is-config="true" duration-ms="2264" started-at="2019-04-14T15:05:53Z" finished-at="2019-04-14T15:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Subtraction -->
+    </test> <!-- Test_Subtraction_Subtracting by zero -->
+    <test name="Test_Subtraction_Verify Error message when passing blank values" duration-ms="15722" started-at="2019-04-14T15:05:55Z" finished-at="2019-04-14T15:06:11Z">
+      <class name="com.appium.test.mobiletesting.Calculator_Subtraction">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@6b09bb57]" name="setUp" is-config="true" duration-ms="4483" started-at="2019-04-14T15:05:03Z" finished-at="2019-04-14T15:05:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7bc5cb0a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://0.0.0.0:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="subtractionOfTwoNumber(java.lang.String, java.lang.String)[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@6b09bb57]" name="subtractionOfTwoNumber" duration-ms="12112" started-at="2019-04-14T15:05:55Z" finished-at="2019-04-14T15:06:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered 1st Number: ]]>
+            </line>
+            <line>
+              <![CDATA[Entered 2nd Number: 500]]>
+            </line>
+            <line>
+              <![CDATA[Result: Please, fill the input fields correctly]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered:  .Rounded of to 2 Decimal places format: ]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered: 500 .Rounded of to 2 Decimal places format: 500.00]]>
+            </line>
+            <line>
+              <![CDATA[Actual Result: Please, fill the input fields correctly .Expected Result: Please, fill the input fields correctly]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\Jijo\eclipse-workspace\MobileTestingCalculator\Screenshots\20190414_203609.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- subtractionOfTwoNumber -->
+        <test-method status="PASS" signature="resetCalculator()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@6b09bb57]" name="resetCalculator" is-config="true" duration-ms="2252" started-at="2019-04-14T15:06:09Z" finished-at="2019-04-14T15:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetCalculator -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.test.mobiletesting.Calculator_Subtraction@6b09bb57]" name="tearDown" is-config="true" duration-ms="922" started-at="2019-04-14T15:06:11Z" finished-at="2019-04-14T15:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appium.test.mobiletesting.Calculator_Subtraction -->
+    </test> <!-- Test_Subtraction_Verify Error message when passing blank values -->
+  </suite> <!-- Subtraction Suite -->
+</testng-results>
